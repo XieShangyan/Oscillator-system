@@ -1,7 +1,7 @@
 ######################################
 Writed by Xie Shangyan (Shane) in 801, T6 Buliding,
 Harbin Institute of Technology, Shenzhen, China.
-TIme: 2022-01-05
+Time: 2022-01-05
 ######################################
 
 This part is associated with a nonlinear oscillate system to test PPO.
